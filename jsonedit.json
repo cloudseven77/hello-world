@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pus",
+    "species" : "kucing",
+    "foods": {
+      "likes": ["ikan tuna", "daun catnip"],
+      "dislikes": ["anjing", "serigala"]
+    }
+  },
+  {
+    "name": "jony",
+    "species" : "anjing",
+    "foods": {
+      "likes": ["tulang", "kelinci"],
+      "dislikes": ["ikan tuna"]
+    }
+  },
+  {
+    "name": "jalak",
+    "species" : "burung",
+    "foods": {
+      "likes": ["jagung"],
+      "dislikes": ["ular"]
+    }
+  }
+]
